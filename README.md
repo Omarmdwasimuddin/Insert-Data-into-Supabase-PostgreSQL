@@ -100,3 +100,12 @@ export class EmployeeBdModule {}
 ```
 
 ---
+
+
+>## OUTPUT
+>
+><img width="752" height="621" alt="image" src="https://github.com/user-attachments/assets/4763f4bf-e5aa-40c3-b3bb-e4e6c3fa48cf" />
+>
+>#
+><img width="1599" height="286" alt="image" src="https://github.com/user-attachments/assets/81e83fa1-9778-4de5-933a-58fa38946f8b" />
+---
