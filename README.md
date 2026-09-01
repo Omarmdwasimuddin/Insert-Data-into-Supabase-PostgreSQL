@@ -22,19 +22,19 @@ import { Entity, PrimaryGeneratedColumn, Column } from "typeorm";
 @Entity()
 export class Employee {
     @PrimaryGeneratedColumn()
-    id: number;
+    id!: number;
 
     @Column()
-    name: string;
+    name!: string;
 
     @Column()
-    position: string;
+    position!: string;
 
     @Column()
-    department: string;
+    department!: string;
 
     @Column()
-    salary: number;
+    salary!: number;
 }
 ```
 ---
